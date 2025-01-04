@@ -61,7 +61,7 @@ export default function Home() {
 
           <img
             className="flex-1 min-w-72"
-            src="Why Choose Us.jpg"
+            src="image2.jpg"
             alt="Soccer for Change"
           ></img>
         </div>
